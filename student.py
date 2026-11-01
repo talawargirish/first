@@ -1,0 +1,7 @@
+print("STUDENT DETAIL")
+name=input("Enter student name:")
+usn=input("Enter usn:")
+avg=input("Enter avg marks:")
+print("student name:",name)
+print("usn:",usn)
+print("average:",avg)
